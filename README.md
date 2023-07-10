@@ -1,5 +1,9 @@
 ### Hello, I'm Rodrigo! 😃
 
+<a href="https://www.linkedin.com/in/rodrigo-alanis/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
 With over 13 years of experience working as a developer, I am a self-taught professional with deep knowledge in the field, known for being organized, proactive, committed, and highly adaptable. I started my career using Delphi (Object Pascal) and I'm currently working with JavaScript and TypeScript! During these years I've handled and learnt lots of technologies: relational databases, multiple frameworks, numerous API integrations and the list goes on.
 
 I co-founded a company many years ago and developed by myself all the ERP solutions our enterprise clients use until now. Had a role over all the areas, even the product planning, testing, user experience and customer management.
