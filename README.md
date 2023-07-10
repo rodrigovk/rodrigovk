@@ -1,18 +1,25 @@
 ### Hello, I'm Rodrigo! 😃
 
-With over 13 years of experience working as a developer, I am a self-taught professional with deep knowledge in the field, known for being organized, proactive, committed, and highly adaptable. 
-I started my career using Delphi (Object Pascal) and I'm currently working with JavaScript and TypeScript! Relational databases, multiple frameworks, numerous API integrations and the list goes on.
+With over 13 years of experience working as a developer, I am a self-taught professional with deep knowledge in the field, known for being organized, proactive, committed, and highly adaptable. I started my career using Delphi (Object Pascal) and I'm currently working with JavaScript and TypeScript! During these years I've handled and learnt lots of technologies: relational databases, multiple frameworks, numerous API integrations and the list goes on.
+
+I co-founded a company many years ago and developed by myself all the ERP solutions our enterprise clients use until now. Had a role over all the areas, even the product planning, testing, user experience and customer management.
+
+During the last months I did my first ever interview and was invited to join [Friday Finance](https://fridayfinance.com/), where I found the missing inspiration to move forward with my career! 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vue,tailwind,graphql,prisma,postgresql,delphi" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vue,tailwind,graphql,prisma,postgresql,delphi" alt="languages and frameworks" />
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigovk&show_icons=true&locale=en&layout=compact" alt="language status" />
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigovk&show_icons=true&locale=en&layout=compact" alt="language status" />
+  </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigovk&" alt="contributions" />
+  <a href="#">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigovk&" alt="contributions" />
+  </a>
 </p>
