@@ -1,8 +1,13 @@
 ### Hello, I'm Rodrigo! 😃
 
-<a href="https://www.linkedin.com/in/rodrigo-alanis/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/rodrigo-alanis/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href=mailto:“rodrigocasadeialanis@hotmail.com”>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="linkedin" />
+  </a>
+</p>
 
 With over 13 years of experience working as a developer, I am a self-taught professional with deep knowledge in the field, known for being organized, proactive, committed, and highly adaptable. I started my career using Delphi (Object Pascal) and I'm currently working with JavaScript and TypeScript! During these years I've handled and learnt lots of technologies: relational databases, multiple frameworks, numerous API integrations and the list goes on.
 
